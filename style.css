@@ -1,0 +1,15 @@
+.btn-add {
+  font-size: large;
+  background-color: burlywood;
+  border-radius: 15px;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  align-items: center;
+  padding-top: 10px;
+}
+body {
+  background-color: aqua;
+}
